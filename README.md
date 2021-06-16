@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
-<h3 align="center">A passionate mobile developer from Nicaragua</h3>
+<h1 align="center">Hi 👋, I'm Alexander Marenco</h1>
+<h3 align="center">A passionate mobile developer from Nicaragua </h3>
+<H3 align="center">with more than 4 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexm505&label=Profile%20views&color=0e75b6&style=flat" alt="alexm505" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose and Swift UI**
+- 👨‍💻 All of my projects are available at [https://github.com/AlexM505?tab=repositories](https://github.com/AlexM505?tab=repositories)
+- 💬 Ask me about **Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
